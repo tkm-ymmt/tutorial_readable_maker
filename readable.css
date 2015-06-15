@@ -1,0 +1,14 @@
+div.body {
+  width: 650px;
+}
+
+div.body p {
+  font-size: 14px;
+  line-height: 180%!important;
+}
+
+tt, code, pre {
+  font-family: monospace, sans-serif;
+  font-size: 14px!important;
+  line-height: 190%!important;
+}
